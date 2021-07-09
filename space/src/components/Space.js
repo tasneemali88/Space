@@ -13,39 +13,39 @@ import saturn from "../images/saturn.jpg";
 function Space() {
     return (
         <div className="list-group">
-            <Header />
+            <Header/>
             <div className="list-group-item">
                 <img className="img" src={astronaut} alt="" />
-                <h1 className="whatif" >What if the astronaut fell into the space?! </h1>
+                <h1 className="whatif" >"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."</h1>
 
             </div>
 
             <div className="list-group-item">
                 <img className="img" src={earth} alt="" />
-                <h1 className="whatif">What if the earth was flat?!</h1>
+                <h1 className="whatif">"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."</h1>
 
             </div>
 
             <div className="list-group-item">
                 <img className="img" src={mars} alt="" />
-                <h1 className="whatif"> What if </h1>
+                <h1 className="whatif">"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."</h1>
 
             </div>
 
             <div className="list-group-item">
                 <img className="img" src={moon} alt="" />
-                <h1 className="whatif"> What if </h1>
+                <h1 className="whatif"> "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."</h1>
 
             </div>
 
             <div className="list-group-item">
                 <img className="img" src={rocket} alt="" />
-                <h1 className="whatif"> What if</h1>
+                <h1 className="whatif">"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."</h1>
             </div>
 
             <div className="list-group-item">
                 <img className="img" src={saturn} alt="" />
-                <h1 className="whatif">What if</h1>
+                <h1 className="whatif">"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."</h1>
             </div>
         </div>
     )

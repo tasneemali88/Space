@@ -1,4 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import Spc from './components/Spc';
-ReactDOM.render(<Spc/>,document.getElementById('root'));
+import Space from './components/Space';
+
+ReactDOM.render(<Space/>,document.getElementById('root'));
+
